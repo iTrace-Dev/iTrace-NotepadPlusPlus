@@ -13,7 +13,7 @@ To use iTrace-Notepad++, make sure you have iTrace-Core installed.
 1. Open any files you wish to view in Notepad++.
 2. Run iTrace-Core and set up the parameters of your tracking session.
 3. Select Plugins->iTrace-NPP->Connect to iTrace Core. Alternatively, press `Alt+I`.
-4. iTrace-Notepad++ should not be connected to iTrace-Core. A notification should appear in the bottom left notifying you of any errors in connecting.
+4. iTrace-Notepad++ should now be connected to iTrace-Core. A notification should appear in the bottom left notifying you of any errors in connecting.
 5. Once a tracking session is started, iTrace-Notepad++ will begin writing to a file in the location specified in iTrace-Core. When the tracking session is finished, two files will be present - one from iTrace-Notepad++ and the other from iTrace-Core.
 
 # How to Build From Source
